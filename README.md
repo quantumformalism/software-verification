@@ -16,7 +16,7 @@ Join our chat at https://quantumformalism.zulipchat.com/.
 
   * Presentation of the learning material
   * Explanation of learning mode: flipped classroom
-  * Means of contact (git repository, Mattermost)
+  * Means of contact (git repository, Zulip chat)
   * Introduction to Lean
   
 </details>
