@@ -7,7 +7,11 @@ How can we ensure that software does not crash and is guaranteed to be correct? 
   
 ## Contact & Help
 
-Join our chat at https://quantumformalism.zulipchat.com/.
+Join our chat at https://quantumformalism.zulipchat.com/. We highly encourage you to join the chat so you can get the most out of the course!
+
+## YouTube Playlist
+
+The course's video content including mini lectures can be found on this YouTube playlist: https://www.youtube.com/watch?v=9kjld2Swg5w&list=PL6N_Y7ao_aHsHaECz813UGIvAGmrfrOYX&pp=iAQB.
 
 ## Overview of the course
 
