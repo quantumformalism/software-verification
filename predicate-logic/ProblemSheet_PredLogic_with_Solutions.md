@@ -12,7 +12,7 @@ Over the domain of animals, consider the three predicates
   - (b) Basil is a mouse but he is not white.
   - (c) All white mice have tails.
   - (d) Not all mice are white.
-  - (d) At least one of Basil and Charlie has a tail.
+  - (e) At least one of Basil and Charlie has a tail.
 - (ii) Write your predicates in Lean.
 
 <details><summary>Solution</summary>
