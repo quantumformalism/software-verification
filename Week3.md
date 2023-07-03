@@ -1,7 +1,7 @@
-# Workplan for Week 2
+# Workplan for Week 3
 
 
-## What you should before our meeting in Week 2
+## What you should before our meeting in Week 3
 
 1. Work through Sections 1 and 2 of [Logical Verification](https://github.com/benediktahrens/logical_verification_2021/raw/main/hitchhikers_guide.pdf).
 2. Watch the videos that go with Sections 1 and 2, linked to from [LoVe](https://lean-forward.github.io/logical-verification/2021/index.html).
